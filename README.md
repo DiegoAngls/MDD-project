@@ -2,7 +2,7 @@
 ---
 
 ## Data
-Data Sharing of the REST-meta-MDD Project from the DIRECT Consortium 
+Data Sharing of the REST-meta-MDD Project from the DIRECT Consortium   
 [Download data](http://rfmri.org/REST-meta-MDD)
 
 ---
