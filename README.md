@@ -7,7 +7,7 @@
 
 ---
 
-Code for reproducing the analysis for alcohol sudmex-rats
+Code for reproducing the analysis for MDD.
 
 ## Summary
 
