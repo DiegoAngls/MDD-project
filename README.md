@@ -17,11 +17,9 @@ Code for reproducing the analysis for MDD.
 
 [1. Depressive symptoms ](https://github.com/psilantrolab/Sudmex-alcohol-rat/blob/main/code/Env_configuration.md)   
 
-[2. fMRI ROIs()
+[2. MRI ROIs ()
 
-[3. Structural MRI ROIs ()
-
-[4. Network analysis ()
+[3. Network analysis ()
 
 
 ---
